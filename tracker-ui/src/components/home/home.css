@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@500&display=swap');
+
+.title{
+    font-family : 'Sans-serif', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.registerBtn {
+    font-family : 'Sans-serif', Arial, Helvetica, sans-serif;
+}
+
+.Box{
+    margin: 0 auto;
+    line-height: normal;
+}
+
+/* .paper{
+    
+} */

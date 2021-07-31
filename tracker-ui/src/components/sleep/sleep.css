@@ -1,0 +1,53 @@
+.Sleep{
+    width: 100%;
+}
+
+.sleepTitle{
+    height: 100px;
+}
+
+.sleepTitle h2{
+    
+    font-family:sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 147px;
+    text-align: center;
+    letter-spacing: -0.015em;
+    
+}
+
+.sleepDescription {
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: -0.015em;
+    margin-top: auto;
+    padding: 20px;
+    color: #020202;
+
+}
+
+.h2 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 9px;
+    text-align: left;
+}
+
+
+.feedArea{
+    justify-content: center;
+}
+
+.sleepForm{
+    height: 39rem;
+    padding: 0%;
+    border: 2px solid;
+    box-sizing: border-box;
+    
+}
